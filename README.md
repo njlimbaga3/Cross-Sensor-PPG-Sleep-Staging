@@ -12,14 +12,14 @@ The study evaluates a Residual U-Net architecture trained on the public MESA dat
 
 ## Dataset Summary
 
-| Prefix | Date         | Raw Sensor | Ground Truth      | Light | Deep | REM | Total Recorded Duration (hrs) |
-|--------|--------------|------------|-------------------|-------|------|-----|-------------------------------|
-| 01     | 07-13-2024   | MAX86141   | Fitbit Charge 6   | 1613  | 408  | 588 | 21.74                         |
-| 02     | 08-20-2024   | MAX86141   | Fitbit Charge 6   | 1371  | 252  | 255 | 15.65                         |
-| 03     | 11-10-2024   | MAX86141   | Fitbit Charge 6   | 900   | 273  | 426 | 13.33                         |
-| 04     | 03-13-2025   | MAX86141   | Fitbit Charge 6   | 1020  | 393  | 423 | 15.30                         |
-| 05     | 03-16-2025   | MAX86141   | Fitbit Charge 6   | 706   | 258  | 285 | 10.41                         |
-| 06     | 03-18-2025   | MAX86141   | Fitbit Charge 6   | 735   | 270  | 234 | 10.33                         |
+| Prefix | Date         | Raw Sensor | Ground Truth      | Light | Deep | REM | 
+|--------|--------------|------------|-------------------|-------|------|-----|
+| 01     | 07-13-2024   | MAX86141   | Fitbit Charge 6   | 1613  | 408  | 588 |
+| 02     | 08-20-2024   | MAX86141   | Fitbit Charge 6   | 1371  | 252  | 255 | 
+| 03     | 11-10-2024   | MAX86141   | Fitbit Charge 6   | 900   | 273  | 426 | 
+| 04     | 03-13-2025   | MAX86141   | Fitbit Charge 6   | 1020  | 393  | 423 | 
+| 05     | 03-16-2025   | MAX86141   | Fitbit Charge 6   | 706   | 258  | 285 |
+| 06     | 03-18-2025   | MAX86141   | Fitbit Charge 6   | 735   | 270  | 234 | 
 
 Each label corresponds to a 30-second window, and duration was computed accordingly.
 
