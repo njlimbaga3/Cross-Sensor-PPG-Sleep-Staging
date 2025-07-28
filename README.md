@@ -56,6 +56,11 @@ To justify intra-subject variability across the six nights, we computed the spec
 
 ### Citation
 
-If you use this dataset or protocol, please cite our upcoming IEEE Sensors Letters paper (preprint link TBA).
+If you use this dataset or protocol, please cite the following publication:
+
+> N. J. Limbaga, H. He, J. I. de Oliveira Filho, and K. N. Salama,  
+> “Cross-Sensor Transferability of a Deep Residual U-Net for Sleep Staging Using Temporal Low-Frequency Photoplethysmography,”  
+> *IEEE Sensors Letters*, vol. 9, no. 8, Aug. 2025,
+> DOI: [10.1109/LSENS.2025.3589877](https://doi.org/10.1109/LSENS.2025.3589877)
 
 ---
