@@ -5,6 +5,17 @@
 
 ---
 
+### Citation
+
+If you use this dataset or protocol, please cite the following publication:
+
+> N. J. Limbaga, H. He, J. I. de Oliveira Filho, and K. N. Salama,  
+> “Cross-Sensor Transferability of a Deep Residual U-Net for Sleep Staging Using Temporal Low-Frequency Photoplethysmography,”  
+> *IEEE Sensors Letters*, vol. 9, no. 8, Aug. 2025,
+> DOI: [10.1109/LSENS.2025.3589877](https://doi.org/10.1109/LSENS.2025.3589877)
+
+---
+
 This repository contains the dataset and experimental protocol used in the IEEE Sensors Letters submission titled:  
 **"Cross-Sensor Transferability of a Deep Residual U-Net for Sleep Staging Using Temporal Low-Frequency Photoplethysmography"**.
 
@@ -54,13 +65,3 @@ To justify intra-subject variability across the six nights, we computed the spec
 
 ---
 
-### Citation
-
-If you use this dataset or protocol, please cite the following publication:
-
-> N. J. Limbaga, H. He, J. I. de Oliveira Filho, and K. N. Salama,  
-> “Cross-Sensor Transferability of a Deep Residual U-Net for Sleep Staging Using Temporal Low-Frequency Photoplethysmography,”  
-> *IEEE Sensors Letters*, vol. 9, no. 8, Aug. 2025,
-> DOI: [10.1109/LSENS.2025.3589877](https://doi.org/10.1109/LSENS.2025.3589877)
-
----
